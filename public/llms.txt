@@ -2,32 +2,32 @@
 
 > Free creator tools and practical growth guides for YouTube, Instagram, TikTok, Facebook, and WhatsApp. No sign-up required for tools.
 
-UtubeHelpers (https://utubehelpers.com) publishes free browser-based creator tools and in-depth guides covering content strategy, SEO and discoverability, packaging (titles, thumbnails), audience retention, analytics, and monetization across five platforms.
+[UtubeHelpers](https://utubehelpers.com) publishes free browser-based creator tools and in-depth guides covering content strategy, SEO and discoverability, packaging (titles, thumbnails), audience retention, analytics, and monetization across five platforms.
 
 ## Tools
 
-- All tools: https://utubehelpers.com/tools
-- YouTube tools (tags, titles, thumbnails, analytics, scripts, monetization calculators): https://utubehelpers.com/tools
-- Instagram tools (hashtag generator, caption generator, bio generator, engagement calculator): https://utubehelpers.com/tools
-- TikTok tools (hashtag generator, caption generator, engagement calculator): https://utubehelpers.com/tools
-- Facebook tools (post character counter, engagement calculator, headline analyzer): https://utubehelpers.com/tools
-- WhatsApp tools (click-to-chat link generator, QR code generator, text formatter): https://utubehelpers.com/tools
+- [All tools](https://utubehelpers.com/tools)
+- [YouTube tools](https://utubehelpers.com/tools) (tags, titles, thumbnails, analytics, scripts, monetization calculators)
+- [Instagram tools](https://utubehelpers.com/tools) (hashtag generator, caption generator, bio generator, engagement calculator)
+- [TikTok tools](https://utubehelpers.com/tools) (hashtag generator, caption generator, engagement calculator)
+- [Facebook tools](https://utubehelpers.com/tools) (post character counter, engagement calculator, headline analyzer)
+- [WhatsApp tools](https://utubehelpers.com/tools) (click-to-chat link generator, QR code generator, text formatter)
 
 Most tools run entirely in the visitor's browser; nothing is uploaded unless the tool's page says otherwise.
 
 ## Guides
 
-- All guides: https://utubehelpers.com/blog
-- YouTube growth, SEO, and monetization: https://utubehelpers.com/blog
-- Instagram growth and Reels strategy: https://utubehelpers.com/blog
-- TikTok growth and algorithm guides: https://utubehelpers.com/blog
-- Facebook and WhatsApp creator guides: https://utubehelpers.com/blog
+- [All guides](https://utubehelpers.com/blog)
+- [YouTube growth, SEO, and monetization guides](https://utubehelpers.com/blog)
+- [Instagram growth and Reels strategy guides](https://utubehelpers.com/blog)
+- [TikTok growth and algorithm guides](https://utubehelpers.com/blog)
+- [Facebook and WhatsApp creator guides](https://utubehelpers.com/blog)
 
 Guides are written by the site's founder and avoid income promises and unverified claims.
 
 ## About
 
-- About: https://utubehelpers.com/about
-- Contact: https://utubehelpers.com/contact
-- Privacy policy: https://utubehelpers.com/privacy-policy
-- Terms of service: https://utubehelpers.com/terms-of-service
+- [About](https://utubehelpers.com/about)
+- [Contact](https://utubehelpers.com/contact)
+- [Privacy policy](https://utubehelpers.com/privacy-policy)
+- [Terms of service](https://utubehelpers.com/terms-of-service)
